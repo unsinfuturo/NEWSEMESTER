@@ -1,0 +1,12 @@
+SELECT * = muestra todo en una tabla
+SELECT X = muestra 
+% = Ignora texto despues
+_ = Salta oracion
+AS = Etiqueta
+LIKE = Condicion general
+NOT LIKE = Contrario
+ASC = 
+DESC  
+SUM
+Group by
+Order by
