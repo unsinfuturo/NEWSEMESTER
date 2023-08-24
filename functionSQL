@@ -3,7 +3,7 @@ SELECT X = muestra
 % = Ignora texto despues
 _ = Salta oracion
 AS = Etiqueta
-LIKE = Condicion general
+LIKE = Condicion general para string
 NOT LIKE = Contrario
 ASC = 
 DESC  
